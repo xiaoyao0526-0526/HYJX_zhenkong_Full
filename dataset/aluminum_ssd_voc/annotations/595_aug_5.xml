@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>595.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zhen_kong</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>289</xmin>
+            <ymin>208</ymin>
+            <xmax>328</xmax>
+            <ymax>250</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zhen_kong</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>364</xmin>
+            <ymin>229</ymin>
+            <xmax>408</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>
+</annotation>

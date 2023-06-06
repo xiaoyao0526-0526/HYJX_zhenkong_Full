@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>119.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>zhen_kong</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>370</xmin>
+            <ymin>188</ymin>
+            <xmax>408</xmax>
+            <ymax>227</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zang_wu</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>248</xmin>
+            <ymin>226</ymin>
+            <xmax>352</xmax>
+            <ymax>322</ymax>
+        </bndbox>
+    </object>
+</annotation>

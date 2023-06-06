@@ -1,0 +1,33 @@
+<annotation>
+    <folder>images</folder>
+    <filename>608.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>ca_shang</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>232</ymin>
+            <xmax>355</xmax>
+            <ymax>377</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>zhen_kong</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>301</xmin>
+            <ymin>212</ymin>
+            <xmax>365</xmax>
+            <ymax>262</ymax>
+        </bndbox>
+    </object>
+</annotation>
